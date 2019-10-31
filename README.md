@@ -1,2 +1,6 @@
-# Seminario_Visualizacion
-En este repositorio subiré el material y los códigos del Seminario de VIsualización 2019
+# Seminario Visualizacion
+
+La idea de este seminario es dedicarnos ex
+
+
+## 1. Un breve repaso a la gramática de gráficas en el contexto del *tidyverse¨*
